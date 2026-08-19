@@ -1,5 +1,5 @@
 
-### Tech Stack
+## 🛠️ Tech Stack
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -9,19 +9,25 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### Awards
+<br>
+
+## 🏆 Awards
 
 | Date | Competition | Award |
 |:---|:---|:---|
 | 2026.08 | SW중심대학 Digital Competition (SW Division) | 🥉 Excellence Award & 🏅 People's Choice Award |
 | 2026.05 | Kyung Hee Univ. Hackathon (Khuthon) | 🥇 Grand Prize |
 
-### Experience
+<br>
+
+## 💼 Experience
 
 - 2026 – Head of External Affairs, Kyung Hee Univ. Dept. of Computer Engineering
 - 2024 – 2025 – Military
 - 2023 – Public Relations Member, Kyung Hee Univ. Dept. of Computer Engineering
 
-### Current
+<br>
+
+## 🔭 Current
 
 - Head of External Affairs, Kyung Hee Univ. Dept. of Computer Engineering (2026 – )
