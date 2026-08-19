@@ -2,7 +2,6 @@
 
 Backend Developer | 성장하는 백엔드 개발자를 목표로 공부하고 있습니다.
 
-Portfolio → [link](#)
 
 ---
 
