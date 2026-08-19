@@ -1,9 +1,3 @@
-# 박찬종 DavePark
-
-Backend Developer | 성장하는 백엔드 개발자를 목표로 공부하고 있습니다.
-
-
----
 
 ### Tech Stack
 
@@ -25,7 +19,7 @@ Backend Developer | 성장하는 백엔드 개발자를 목표로 공부하고 �
 ### Experience
 
 - 2026 – Head of External Affairs, Kyung Hee Univ. Dept. of Computer Engineering
-- 2024 – 2025 – Military Service (Republic of Korea Army)
+- 2024 – 2025 – Military
 - 2023 – Public Relations Member, Kyung Hee Univ. Dept. of Computer Engineering
 
 ### Current
