@@ -1,4 +1,4 @@
-# 박찬종 Chanjong Park
+# 박찬종 DavePark
 
 Backend Developer | 성장하는 백엔드 개발자를 목표로 공부하고 있습니다.
 
