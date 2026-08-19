@@ -20,7 +20,7 @@ Backend Developer | 성장하는 백엔드 개발자를 목표로 공부하고 �
 | Date | Competition | Award |
 |:---|:---|:---|
 | 2026.08 | SW중심대학 Digital Competition (SW Division) | 🥉 Excellence Award & 🏅 People's Choice Award |
-| 2025.05 | Kyung Hee Univ. Hackathon (Khuthon) | 🥇 Grand Prize |
+| 2026.05 | Kyung Hee Univ. Hackathon (Khuthon) | 🥇 Grand Prize |
 
 ### Experience
 
