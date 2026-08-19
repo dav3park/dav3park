@@ -1,5 +1,5 @@
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -11,7 +11,7 @@
 
 <br>
 
-## 🏆 Awards
+## Awards
 
 | Date | Competition | Award |
 |:---|:---|:---|
@@ -20,7 +20,7 @@
 
 <br>
 
-## 💼 Experience
+## Experience
 
 - 2026 – Head of External Affairs, Kyung Hee Univ. Dept. of Computer Engineering
 - 2024 – 2025 – Military
@@ -28,6 +28,6 @@
 
 <br>
 
-## 🔭 Current
+## Current
 
 - Head of External Affairs, Kyung Hee Univ. Dept. of Computer Engineering (2026 – )
