@@ -9,10 +9,10 @@
 
 ## Experience
 
-- 2026 – 대외협력부장, Kyung Hee Univ. Dept. of Computer Engineering
+- 2026 – Head of External Affairs, Student Council, Dept. of Computer Engineering, Kyung Hee Univ.
 - 2024 – 2025 – Military
-- 2023 – Public Relations Member, Kyung Hee Univ. Dept. of Computer Engineering
+- 2023 – Public Relations Team Member, Student Council, Dept. of Computer Engineering, Kyung Hee Univ.
 
 ## Current
 
-- Head of External Affairs, Kyung Hee Univ. Dept. of Computer Engineering (2026 – )
+- Head of External Affairs, Student Council, Dept. of Computer Engineering, Kyung Hee Univ. (2026 – )
